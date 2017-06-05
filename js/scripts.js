@@ -8,7 +8,7 @@ alert(result);
 
 
 var subtract = function(number1, number2){
-  return  number1 + number2;
+  return  number1 - number2;
 };
 var number1 = parseInt(prompt("Enter a number:"));
 var number2 = parseInt(prompt("Enter another number:"));
@@ -17,7 +17,7 @@ alert(result);
 
 
 var multiply = function(number1, number2){
-  return number1 + number2;
+  return number1 * number2;
 };
 var number1 = parseInt(prompt("Enter a number:"));
 var number2 = parseInt(prompt("Enter annother number"));
@@ -25,7 +25,7 @@ var result = multiply(number1,number2);
 alert(result);
 
 var divide = function(number1, number2){
-  return = number1 + number2;
+  return = number1/number2;
 };
 var number1 = var number1 = parseInt(prompt("Enter a number:"));
 var number2 = parseInt(prompt("Enter annother number"));
